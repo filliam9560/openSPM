@@ -3,9 +3,9 @@ Some resources may be helpful to SPM users. For example, scan images process scr
 This project mainly use python.
 
 
-## images process
+## file read and image process
 
-### sxm read
+[sxm read](sxm_process/main.py)
 
 
 ## drift meassure
