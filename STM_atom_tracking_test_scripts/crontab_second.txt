@@ -1,0 +1,2 @@
+*/1 * * * * sh /opt/cont/task_second.sh
+*/30 * * * * sh /opt/cont/task_restore.sh

@@ -1,0 +1,1 @@
+*/1 * * * * sh /opt/cont/task_minute.sh
