@@ -3,9 +3,11 @@ Some resources may be helpful to SPM users. For example, scan images process scr
 This project mainly use python.
 
 
-## file read and image process
+## file read and image processing
 
 [sxm read](sxm_process)
+You can obtain raw data in [main.py](sxm_process/main.py)
+you can add your own image processing methods in [process_method.py](sxm_process/process_method.py)
 
 
 ## drift meassure
